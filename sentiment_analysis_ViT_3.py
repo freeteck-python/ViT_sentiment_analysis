@@ -1,3 +1,4 @@
+# Модуль пакетного ИИ-инференса на базе нейросети RuBERT
 import subprocess
 import sys
 
