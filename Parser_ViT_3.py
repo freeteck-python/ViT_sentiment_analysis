@@ -1,3 +1,4 @@
+# Модуль скрапинга отзывов с Яндекс.Карт
 import subprocess
 import sys
 
